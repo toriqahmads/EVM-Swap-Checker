@@ -1,0 +1,20 @@
+{
+  "0x7a250d5630b4cf539739df2c5dacb4c659f2488d": {
+    "name": "UNISWAP V2",
+    "chain": "eth",
+    "chain_id": 1,
+    "weth_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "usdt_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "swap_fee": 0.03,
+    "usdt_decimal": 6
+  },
+  "0x10ed43c718714eb63d5aa57b78b54704e256024e": {
+    "name": "PANCAKESWAP V2",
+    "chain": "bsc",
+    "chain_id": 56,
+    "weth_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "usdt_address": "0x55d398326f99059ff775485246999027b3197955",
+    "swap_fee": 0.025,
+    "usdt_decimal": 18
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "1": {
+    "rpc": "https://eth-rpc.gateway.pokt.network",
+    "name": "eth"
+  },
+  "56": {
+    "rpc": "https://bsc-dataseed2.ninicoin.io",
+    "name": "bsc"
+  }
+}
